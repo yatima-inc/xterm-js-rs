@@ -11,7 +11,7 @@ license       = "MIT"
 keywords      = ["cli", "web", "wasm", "javascript"]
 
 [lib]
-crate-type = ["cdylib", "rlib"]
+# crate-type = ["cdylib", "rlib"]
 
 [features]
 default = []
