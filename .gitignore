@@ -1,6 +1,5 @@
 target
 **/*.rs.bk
-Cargo.lock
 bin/
 pkg/
 wasm-pack.log
@@ -8,3 +7,4 @@ node_modules
 dist
 .cargo-ok
 package-lock.json
+result*
